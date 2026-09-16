@@ -14,7 +14,7 @@ st.set_page_config(
 # -----------------------------
 # Load Model
 # -----------------------------
-model = joblib.load("Christ_college_Study_Hrs_Result_prediction_model.pkl")
+model = joblib.load("Study_Hrs_Result_prediction_model.pkl")
 
 # -----------------------------
 # Title
